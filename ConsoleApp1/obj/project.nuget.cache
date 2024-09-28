@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDj+yHwiKz4Ocao86DQ8wokaudNTqYn9dNRwnjZp8RAHfmRr7BkeOylkQ0msTQfMGLho4ldqJgkDFWj9EV8VIA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\google.ortools\\9.11.4210\\google.ortools.9.11.4210.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.11.4210\\google.ortools.runtime.linux-arm64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.11.4210\\google.ortools.runtime.linux-x64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.11.4210\\google.ortools.runtime.osx-arm64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.11.4210\\google.ortools.runtime.osx-x64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.11.4210\\google.ortools.runtime.win-x64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512"
+  ],
+  "logs": []
+}
